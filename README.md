@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...B.teach ECE
 - 💞️ I’m looking to collaborate on ... Everyone 
 - 📫 How to reach me ... contact me in gethub
-- 😄 Pronouns: ...I am a 1st year student 
+- 😄 Pronouns: ...I am a 2nd year student 
 - ⚡ Fun fact: ...I am new in coding world.
 
 <!---
